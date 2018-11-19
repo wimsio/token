@@ -2,6 +2,7 @@ pragma solidity ^0.4.21;
 
 /**
  * Description: WIMSToken is a simple ERC20
+ * Adapted from https://pastebin.com/aJyqD5Zs
  * title manager
  */
  
