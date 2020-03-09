@@ -1,6 +1,10 @@
+/**
+ *Submitted for verification at Etherscan.io on 2018-11-23
+*/
+
 pragma solidity ^0.4.21;
 
-/***
+/**
  * @title Description: This code is for creating a token contract
  * This contract is mintable, pausable, burnable, administered, admin-transferrable and 
  * has safety Maths and security operations checks done and yet have been kept short and simple
